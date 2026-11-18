@@ -1,0 +1,1 @@
+<main class="error-page"><div class="error-code">404</div><h1>Page not found</h1><p>Halaman yang lu cari nggak tersedia.</p><a href="/">Kembali ke dashboard ↗</a></main>

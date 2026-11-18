@@ -1,0 +1,1 @@
+<main class="error-page"><div class="error-code">500</div><h1>Something went wrong</h1><p>Server mengalami kesalahan internal. Coba lagi nanti.</p><a href="/">Kembali ke dashboard ↗</a></main>

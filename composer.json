@@ -1,0 +1,20 @@
+{
+  "name": "mycode/webstack-analyzer",
+  "description": "PHP-powered website technology fingerprinting and analysis platform",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": "^8.2",
+    "ext-curl": "*",
+    "ext-dom": "*",
+    "ext-json": "*",
+    "ext-mbstring": "*"
+  },
+  "scripts": {
+    "start": "php -S 0.0.0.0:${PORT:-8080} -t public"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
+}
